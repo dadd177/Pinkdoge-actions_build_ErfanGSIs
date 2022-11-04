@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://115.151.151.123:8090/xdispatch0e160716755c2c77/bigota.d.miui.com/V12.0.2.0.QFACNXM/miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip?bsreqid=c6b97ad0ef17490f75382d6aa48f4238
+  ROM_URL: http://60.174.13.135:8090/xdispatch0e160716755c2c77/bigota.d.miui.com/V11.0.9.0.QFACNXM/miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip?bsreqid=87167283a92dd3e317a07e33f31a2661
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
