@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.45_OTA_0450_all_2206171444_4648294fadf24670.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: http://115.151.151.123:8090/xdispatch0e160716755c2c77/bigota.d.miui.com/V12.0.2.0.QFACNXM/miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip?bsreqid=c6b97ad0ef17490f75382d6aa48f4238
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY:
